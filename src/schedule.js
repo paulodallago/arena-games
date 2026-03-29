@@ -1,9 +1,9 @@
 const scheduleData = {
-  '11': [
+  '09': [
     {
       title: 'Counter Strike 2',
-      date: 'Á definir',
-      time: 'Á definir',
+      date: '09/05/2026',
+      time: 'Á partir das 08:00',
       location: 'IFSul - Passo Fundo',
       description: 'A competição de Counter-Strike 2 (CS2) que vai testar os limites da mira, da estratégia e do trabalho em equipe. O torneio será dividido em duas fases: uma etapa inicial de qualificatórias online, disputada pela plataforma FACEIT com uso obrigatório de anti-cheat, e a etapa final presencial, no IFSul - Câmpus Passo Fundo, onde as equipes classificadas disputarão o título e a premiação fornecida pelos patrocinadores.',
       photos: [
@@ -11,7 +11,7 @@ const scheduleData = {
       ],
       buttons:
         [
-          // { label: 'Inscrever-se', href: 'https://painel.passofundo.ifsul.edu.br/syseve/inscricoes/', type: 'primary' }
+          { label: 'Inscrever-se', href: 'https://painel.passofundo.ifsul.edu.br/syseve/inscricoes/', type: 'primary' }
         ],
 
       sections: [
@@ -86,8 +86,8 @@ const scheduleData = {
     },
     {
       title: 'League of Legends',
-      date: 'Á definir',
-      time: 'Á definir',
+      date: '09/05/2026',
+      time: 'Á partir das 08:00',
       location: 'IFSul - Passo Fundo',
       description: 'League of Legends (LoL) é um MOBA 5v5 da Riot Games em que times escolhem campeões com habilidades únicas e batalham em Summoner’s Rift. O objetivo é destruir o Nexus inimigo, controlando rotas, monstros e visão — mesclando mecânica individual e estratégia de equipe.',
       photos: [
@@ -95,7 +95,7 @@ const scheduleData = {
       ],
       buttons:
         [
-          // { label: 'Inscrever-se', href: 'https://painel.passofundo.ifsul.edu.br/syseve/inscricoes/', type: 'primary' }
+          { label: 'Inscrever-se', href: 'https://painel.passofundo.ifsul.edu.br/syseve/inscricoes/', type: 'primary' }
         ],
       sections: [
         {
@@ -157,8 +157,8 @@ const scheduleData = {
     },
     {
       title: 'Valorant',
-      date: 'Á definir',
-      time: 'Á definir',
+      date: '09/05/2026',
+      time: 'Á partir das 08:00',
       location: 'IFSul - Passo Fundo',
       description: 'VALORANT é um FPS tático 5v5 da Riot Games que mistura tiro de precisão com habilidades únicas de Agentes. As equipes atacam/defendem plantando ou desarmando a Spike, gerenciam economia e usam utilitários para controlar mapa e ângulos.',
       photos: [
@@ -166,7 +166,7 @@ const scheduleData = {
       ],
       buttons:
         [
-          // { label: 'Inscrever-se', href: 'https://painel.passofundo.ifsul.edu.br/syseve/inscricoes/', type: 'primary' }
+          { label: 'Inscrever-se', href: 'https://painel.passofundo.ifsul.edu.br/syseve/inscricoes/', type: 'primary' }
         ],
       sections: [
         {
@@ -225,6 +225,76 @@ const scheduleData = {
           ]
         }
       ]
+    },{
+      title: 'Xadrez',
+      date: '09/05/2026',
+      time: 'Á partir das 08:00',
+        location: 'IFSul - Passo Fundo',
+        description: 'Xadrez é um jogo de tabuleiro estratégico jogado entre duas pessoas. O objetivo é colocar o rei do oponente em xeque-mate, ou seja, ameaçar o rei de forma que ele não possa se mover para uma posição segura.',
+      photos: [
+        '../../assets/img/xadrez.png'
+      ],
+      buttons:
+        [
+          { label: 'Inscrever-se', href: 'https://painel.passofundo.ifsul.edu.br/syseve/inscricoes/', type: 'primary' }
+        ],
+      // sections: [
+      //   {
+      //     title: 'Equipes',
+      //     items: [
+      //       '4 a 8 equipes participantes',
+      //       'Cada equipe com 5 jogadores previamente inscritos'
+      //     ]
+      //   },
+      //   {
+      //     title: 'Formato do Torneio',
+      //     items: [
+      //       'Todas as partidas em MD1 (melhor de um)',
+      //       'Eliminatória simples (sem repescagem)'
+      //     ]
+      //   },
+      //   {
+      //     title: 'Horário e Organização',
+      //     items: [
+      //       'Início às 9h00',
+      //       'Ordem das partidas definida por sorteio',
+      //       'Atraso superior a 15 minutos resulta em desclassificação por WO'
+      //     ]
+      //   },
+      //   {
+      //     title: 'Contas e Plataforma',
+      //     items: [
+      //       'Cada jogador deve utilizar sua própria conta da Riot Games',
+      //       'A conta será desconectada ao final da partida'
+      //     ]
+      //   },
+      //   {
+      //     title: 'Estrutura e Equipamentos',
+      //     items: [
+      //       'Partidas na sala 504',
+      //       'Equipamentos fornecidos: computador, monitor, teclado e mouse padrão',
+      //       'Permitido levar periféricos pessoais (headset, mouse, mousepad e teclado)'
+      //     ]
+      //   },
+      //   {
+      //     title: 'Regras de Conduta e Jogo',
+      //     items: [
+      //       'Proibido uso de programas externos ou modificações (trapaça) — banimento da equipe',
+      //       'Nicknames ofensivos não serão permitidos',
+      //       'Problemas técnicos devem ser reportados imediatamente; reclamações após o término não serão aceitas',
+      //       'Todos os computadores têm a mesma configuração, garantindo igualdade',
+      //       'Discussões ou brigas fora do jogo podem resultar em banimento da equipe'
+      //     ]
+      //   },
+      //   {
+      //     title: 'Coach',
+      //     items: [
+      //       'Cada time poderá contar com 1 coach previamente inscrito',
+      //       'O coach é o único acompanhante autorizado dentro do laboratório',
+      //       'Demais convidados poderão permanecer na área indicada do local'
+      //     ]
+      //   }
+      // ]
     },
   ]
 }
