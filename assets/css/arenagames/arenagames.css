@@ -513,6 +513,8 @@ a.name {
   background-size: cover;
   background-position: 46% top;
   background-repeat: no-repeat;
+  /*background-size: 120%;
+  margin-top: 5%; */
 }
 
 /* 2) Desativa o overlay genérico só aqui (você já tem .main::before global) */
