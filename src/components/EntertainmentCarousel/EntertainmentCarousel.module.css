@@ -16,7 +16,7 @@
 .carouselContent {
   width: 100%;
   color: white;
-  background-color: var(--blue-1);
+  background: var(--background-gradient-2);
   padding: 0 2rem;
   height: 100%;
   padding-bottom: 1rem;

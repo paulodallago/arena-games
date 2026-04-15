@@ -8,7 +8,7 @@ import styles from "./Modalities.module.css";
 const Modalities = () => {
   const modes = [
     {
-      title: "Campeonato de Counter-Strike 2",
+      title: "Campeonato de Counter Strike 2",
       image: grid_cs,
     },
     {

@@ -10,7 +10,6 @@ const ModalitiesCarousel = () => {
   const [visible, setVisible] = useState(false);
   const [selectedItem, setSelectedItem] = useState(null);
 
-  // @ts-ignore
   const itemTemplate = (item) => {
     return (
       <div className={`${styles.carouselItem} defaultHover`}>
@@ -48,20 +47,20 @@ const ModalitiesCarousel = () => {
 
   return (
     <>
+      <InfoDialog
+        body={selectedItem}
+        visible={visible}
+        setVisible={setVisible}
+      />
       <div className={styles.carouselContainer}>
         <div className={styles.carousel}>
-          <InfoDialog
-            body={selectedItem}
-            visible={visible}
-            setVisible={setVisible}
-          />
           <Carousel
             value={modalities}
             numVisible={3}
             numScroll={1}
             itemTemplate={itemTemplate}
             circular
-            //autoplayInterval={4000}
+            autoplayInterval={4000}
           />
         </div>
       </div>

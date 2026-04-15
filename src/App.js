@@ -8,7 +8,6 @@ import Header from "./components/Header/Header";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Schedule from "./views/Schedule/Schedule";
 import Footer from "./components/Footer/Footer";
-import "../src/assets/css/style.css";
 
 const App = () => {
   return (

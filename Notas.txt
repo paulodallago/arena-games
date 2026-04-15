@@ -1,14 +1,10 @@
 Site pras imagens dos jogos: https://www.steamgriddb.com
 
 ======================
-
-TODO 
-Tentar achar uma solução melhor pro "@ts-ignore" (remover TS)
-Disposição das modalidades
-Edições anteriores (só imagens)
-Eventos de clique
-modal de saiba mais
-ícone do site
+ 
+TODO Melhorar disposição das modalidades
+TODO Edições anteriores (só imagens)
+TODO Verificar se vai ficar como app mobile
+TODO Adicionar texto no xadrez
+TODO fixar tamanho de imagem pra jogo pequena horizontal
 ver se tá responsivo
-temporizador
-adicionar dialog no entertainment

@@ -22,7 +22,6 @@ const Editions = () => {
     },
   ];
 
-  // @ts-ignore
   const itemTemplate = (item) => {
     return (
       <div className={styles.carouselItem}>

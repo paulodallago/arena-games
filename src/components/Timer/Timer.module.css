@@ -1,0 +1,14 @@
+.timer {
+  width: 90vw;
+  margin: 0 auto;
+  text-align: center;
+  background-color: var(--background-2);
+  border-radius: 12px;
+  box-shadow: var(--shadow-1);
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+.markers {
+  font-size: 2rem;
+}

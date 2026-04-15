@@ -6,9 +6,9 @@
 }
 
 .ytCard {
-  width: 93vw;
+  width: 90vw;
   height: 50vh;
-  background: #0f172a;
+  background: var(--background-2);
   color: white;
   border-radius: 16px;
   padding: 2rem;
@@ -18,7 +18,7 @@
 }
 
 .ytButton {
-  background-color: #ff0000 !important;
+  background: #ff0000 !important;
   color: white;
   padding: 0 5rem;
   border-radius: 5rem;

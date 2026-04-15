@@ -1,4 +1,3 @@
-// @ts-nocheck
 import React from "react";
 import { Dialog } from "primereact/dialog";
 import styles from "./InfoDialog.module.css";
@@ -39,7 +38,6 @@ const InfoDialog = ({ body, visible, setVisible }) => {
                 <li key={i}>{line}</li>
               ))}
             </ul>
-            <hr />
           </div>
         ))}
     </Dialog>

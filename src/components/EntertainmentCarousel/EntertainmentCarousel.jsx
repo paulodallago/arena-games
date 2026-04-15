@@ -1,37 +1,21 @@
 import { Carousel } from "primereact/carousel";
-import arena from "../../assets/img/arena/logo.jpeg";
-import off from "../../assets/img/partners/off.jpg";
 import styles from "./EntertainmentCarousel.module.css";
 
-import React from "react";
+import React, { useState } from "react";
 import { Button } from "primereact/button";
+import entertainment from "../../assets/json/entertainment";
+import InfoDialog from "../InfoDialog/InfoDialog";
 
 const EntertainmentCarousel = () => {
-  const carousel = [
-    {
-      title: "Laboratório de Jogos Antigos / Emulador de Jogos",
-      image: arena,
-      date: "09/05/2026",
-      time: "Durante todo o evento",
-      location: "IFSul - Passo Fundo",
-    },
-    {
-      title: "Sala de Jogos de Tabuleiro (Espaço Off)",
-      image: off,
-      date: "09/05/2026",
-      time: "Durante todo o evento",
-      location: "IFSul - Passo Fundo",
-    },
-  ];
+  const [visible, setVisible] = useState(false);
+  const [selectedItem, setSelectedItem] = useState(null);
 
-  // @ts-ignore
   const itemTemplate = (item) => {
     return (
       <div className={`${styles.carouselItem} defaultHover`}>
         <img src={item.image} alt={item.title} className={styles.carouselImg} />
         <div className={styles.carouselContent}>
           <h3>{item.title}</h3>
-          <p>{item.description}</p>
           <div className={styles.info}>
             <p>
               <i className="pi pi-calendar" />
@@ -50,6 +34,10 @@ const EntertainmentCarousel = () => {
             label="Saiba mais"
             icon="pi pi-info-circle"
             className="transparent-button"
+            onClick={() => {
+              setSelectedItem(item);
+              setVisible(true);
+            }}
           />
         </div>
       </div>
@@ -58,10 +46,15 @@ const EntertainmentCarousel = () => {
 
   return (
     <>
+      <InfoDialog
+        body={selectedItem}
+        visible={visible}
+        setVisible={setVisible}
+      />
       <div className={styles.carouselContainer}>
         <div className={styles.carousel}>
           <Carousel
-            value={carousel}
+            value={entertainment}
             numVisible={2}
             numScroll={1}
             itemTemplate={itemTemplate}
