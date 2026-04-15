@@ -1,9 +1,7 @@
 # Site da Arena Games IFSUL
 
-## Feito utilizando
+### Feito utilizando
 
-- Primereact
-
-- Primeicons
+- Primereact & Primeicons
 
 ### Reconstruído em React.js por Paulo Henrique Dal Lago
