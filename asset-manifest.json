@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/paulodallago/Site-Arena-Games-IFSul/static/css/main.217d9c99.css",
+    "main.js": "/paulodallago/Site-Arena-Games-IFSul/static/js/main.2e090e35.js",
+    "static/media/chess.jpg": "/paulodallago/Site-Arena-Games-IFSul/static/media/chess.add7473d196e8a9640da.jpg",
+    "static/media/lol.png": "/paulodallago/Site-Arena-Games-IFSul/static/media/lol.dbdc4471636dd225625b.png",
+    "static/media/cs.png": "/paulodallago/Site-Arena-Games-IFSul/static/media/cs.90a7d33467b235a2b468.png",
+    "static/media/valorant.jpg": "/paulodallago/Site-Arena-Games-IFSul/static/media/valorant.782c686846f713dc57de.jpg",
+    "static/media/arena.png": "/paulodallago/Site-Arena-Games-IFSul/static/media/arena.0fe6f43dd0339460964d.png",
+    "static/media/arena_right.png": "/paulodallago/Site-Arena-Games-IFSul/static/media/arena_right.ac8d87025cd14f18dea9.png",
+    "static/media/background_registrations.jpg": "/paulodallago/Site-Arena-Games-IFSul/static/media/background_registrations.6afda12e4b068f380a37.jpg",
+    "static/media/primeicons.svg": "/paulodallago/Site-Arena-Games-IFSul/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/logo.png": "/paulodallago/Site-Arena-Games-IFSul/static/media/logo.b805b23f96bd85d7aaa0.png",
+    "static/media/primeicons.eot": "/paulodallago/Site-Arena-Games-IFSul/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/paulodallago/Site-Arena-Games-IFSul/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/paulodallago/Site-Arena-Games-IFSul/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/logo.jpeg": "/paulodallago/Site-Arena-Games-IFSul/static/media/logo.b4b8ff10d38f31bf94e0.jpeg",
+    "static/media/primeicons.woff2": "/paulodallago/Site-Arena-Games-IFSul/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "static/media/logo_pf.png": "/paulodallago/Site-Arena-Games-IFSul/static/media/logo_pf.828fbfc6187e18d232d6.png",
+    "static/media/logo_dark.png": "/paulodallago/Site-Arena-Games-IFSul/static/media/logo_dark.c73c38952f66044cd250.png",
+    "index.html": "/paulodallago/Site-Arena-Games-IFSul/index.html",
+    "main.217d9c99.css.map": "/paulodallago/Site-Arena-Games-IFSul/static/css/main.217d9c99.css.map",
+    "main.2e090e35.js.map": "/paulodallago/Site-Arena-Games-IFSul/static/js/main.2e090e35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.217d9c99.css",
+    "static/js/main.2e090e35.js"
+  ]
+}
