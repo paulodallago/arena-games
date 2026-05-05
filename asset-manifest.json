@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arena-games/static/css/main.950d88da.css",
-    "main.js": "/arena-games/static/js/main.0ee68541.js",
+    "main.css": "/arena-games/static/css/main.37d31b4a.css",
+    "main.js": "/arena-games/static/js/main.06ad7f93.js",
     "static/media/chess.png": "/arena-games/static/media/chess.79e7453c4c562a8f82ec.png",
     "static/media/rocket_league.png": "/arena-games/static/media/rocket_league.0a846edd225a3561be75.png",
     "static/media/lol.png": "/arena-games/static/media/lol.dbdc4471636dd225625b.png",
@@ -26,11 +26,11 @@
     "static/media/cc_icon.jpeg": "/arena-games/static/media/cc_icon.a369c3b3f07a4992c8df.jpeg",
     "static/media/terabyte_icon.png": "/arena-games/static/media/terabyte_icon.f7432bef53b0b4dbb9b4.png",
     "index.html": "/arena-games/index.html",
-    "main.950d88da.css.map": "/arena-games/static/css/main.950d88da.css.map",
-    "main.0ee68541.js.map": "/arena-games/static/js/main.0ee68541.js.map"
+    "main.37d31b4a.css.map": "/arena-games/static/css/main.37d31b4a.css.map",
+    "main.06ad7f93.js.map": "/arena-games/static/js/main.06ad7f93.js.map"
   },
   "entrypoints": [
-    "static/css/main.950d88da.css",
-    "static/js/main.0ee68541.js"
+    "static/css/main.37d31b4a.css",
+    "static/js/main.06ad7f93.js"
   ]
 }
