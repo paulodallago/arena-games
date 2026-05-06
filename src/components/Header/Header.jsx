@@ -10,12 +10,12 @@ const Header = () => {
     {
       label: "Home",
       icon: "pi pi-home",
-      url: "/",
+      url: "/arena-games/",
     },
     {
       label: "Próxima Edição",
       icon: "pi pi-calendar",
-      url: "/#/programacao",
+      url: "/arena-games/#/programacao",
     },
   ];
 
@@ -54,7 +54,14 @@ const Header = () => {
       {menuOpen && (
         <div className={styles.mobileMenu}>
           {items.map((item, i) => (
-            <a key={i} href={item.url} className={styles.mobileLink}>
+            <a
+              key={i}
+              href={item.url}
+              className={styles.mobileLink}
+              onClick={() => {
+                setMenuOpen(false);
+              }}
+            >
               <i className={item.icon}></i>
               <span>{item.label}</span>
             </a>

@@ -8,7 +8,7 @@ const entertainmentContent = [
     title: "Laboratório de Jogos Antigos / Emulador de Jogos",
     image: retro,
     date: "09/05/2026",
-    time: "08:00 - 12:00",
+    time: "08:30 - 12:00",
     location: "IFSul - Passo Fundo",
     description:
       "Uma jornada pelas gerações clássicas de consoles de videogames, com curiosidades técnicas e exploração de jogos marcantes de cada época.",
@@ -26,7 +26,7 @@ const entertainmentContent = [
     title: "Mesa de RPG: A arma secreta de Wensan Whitebrows (A Origem)",
     image: rpg,
     date: "09/05/2026",
-    time: "09:00 - 11:00",
+    time: "08:30 - 11:00",
     location: "Sala 311",
     rules: [
       {
@@ -57,7 +57,7 @@ const entertainmentContent = [
     title: "Sala de Jogos de Tabuleiro (Espaço Off)",
     image: off,
     date: "09/05/2026",
-    time: "08:00 - 12:00",
+    time: "08:30 - 12:00",
     location: "IFSul - Passo Fundo",
     description:
       "O Espaço Off traz uma sala dedicada aos jogos de tabuleiro modernos e clássicos. Um ambiente descontraído para quem quer se divertir fora das telas, com jogos para todos os perfis.",

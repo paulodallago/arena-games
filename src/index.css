@@ -8,6 +8,7 @@
   --background-gradient-3: linear-gradient(90deg, #604deb, #002f69);
   --shadow-1: 0px 0px 11px 2px #0d0d0d97;
   --shadow-2: 0px 0px 5px 2px #0d0d0d68;
+  --header-height: 10vh;
 }
 
 body {

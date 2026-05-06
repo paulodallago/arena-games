@@ -9,7 +9,7 @@ const modalitiesContent = [
     title: "Counter Strike 2",
     image: grid_cs,
     date: "09/05/2026",
-    time: "A partir das 08:00",
+    time: "A partir das 08:30",
     location: "IFSul - Passo Fundo",
     description:
       "A competição de Counter-Strike 2 (CS2) que vai testar os limites da mira, da estratégia e do trabalho em equipe. O torneio será dividido em duas fases: uma etapa inicial de qualificatórias online, disputada pela plataforma FACEIT com uso obrigatório de anti-cheat, e a etapa final presencial, no IFSul – Câmpus Passo Fundo, onde as equipes classificadas disputarão o título e a premiação fornecida pelos patrocinadores.",
@@ -86,7 +86,7 @@ const modalitiesContent = [
     title: "League of Legends",
     image: grid_lol,
     date: "09/05/2026",
-    time: "A partir das 08:00",
+    time: "A partir das 08:30",
     location: "IFSul - Passo Fundo",
     description:
       "League of Legends (LoL) é um MOBA 5v5 da Riot Games em que times escolhem campeões com habilidades únicas e batalham em Summoner's Rift. O objetivo é destruir o Nexus inimigo, controlando rotas, monstros e visão — mesclando mecânica individual e estratégia de equipe.",
@@ -151,7 +151,7 @@ const modalitiesContent = [
     title: "Valorant",
     image: grid_valorant,
     date: "09/05/2026",
-    time: "A partir das 08:00",
+    time: "A partir das 08:30",
     location: "IFSul - Passo Fundo",
     description:
       "VALORANT é um FPS tático 5v5 da Riot Games que mistura tiro de precisão com habilidades únicas de Agentes. As equipes atacam/defendem plantando ou desarmando a Spike, gerenciam economia e usam utilitários para controlar mapa e ângulos.",
@@ -216,7 +216,7 @@ const modalitiesContent = [
     title: "Rocket League",
     image: grid_rocket_league,
     date: "09/05/2026",
-    time: "A partir das 08:00",
+    time: "A partir das 08:30",
     location: "IFSul - Passo Fundo",
     description: "Descrição",
   },
@@ -224,7 +224,7 @@ const modalitiesContent = [
     title: "Xadrez",
     image: grid_chess,
     date: "09/05/2026",
-    time: "A partir das 08:00",
+    time: "A partir das 08:30",
     location: "IFSul - Passo Fundo",
     description:
       "Xadrez é um jogo de tabuleiro estratégico jogado entre duas pessoas. O objetivo é colocar o rei do oponente em xeque-mate, ameaçando o rei de forma que ele não possa se mover para uma posição segura.",

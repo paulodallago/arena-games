@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from "react";
 import { Dialog } from "primereact/dialog";
 import styles from "./InfoDialog.module.css";
@@ -11,6 +12,7 @@ const InfoDialog = ({ body, visible, setVisible }) => {
       visible={visible}
       className={styles.dialog}
       onHide={() => setVisible(false)}
+      dismissableMask={true}
     >
       <p>
         <strong>Data:</strong> {body.date}

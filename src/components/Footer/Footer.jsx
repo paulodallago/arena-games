@@ -3,6 +3,7 @@ import logo_if from "../../assets/img/if/logo_pf.png";
 import logo_off from "../../assets/img/partners/off_icon.jpg";
 import logo_cc from "../../assets/img/partners/cc_icon.jpeg";
 import logo_terabyte from "../../assets/img/partners/terabyte_icon.png";
+import logo_26fit from "../../assets/img/partners/26fit_icon.png";
 import styles from "./Footer.module.css";
 
 export default function Footer() {
@@ -49,6 +50,13 @@ export default function Footer() {
                   rel="noopener noreferrer"
                 >
                   <img src={logo_terabyte} alt="Terabyte Logo" />
+                </a>
+                <a
+                  href="https://www.instagram.com/26fitpassofundo/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src={logo_26fit} alt="26 Fit Logo" />
                 </a>
               </div>
             </div>
