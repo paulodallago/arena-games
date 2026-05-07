@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arena-games/static/css/main.37d31b4a.css",
-    "main.js": "/arena-games/static/js/main.f43971c8.js",
+    "main.css": "/arena-games/static/css/main.ec9360d7.css",
+    "main.js": "/arena-games/static/js/main.47ddc3a8.js",
     "static/media/chess.png": "/arena-games/static/media/chess.79e7453c4c562a8f82ec.png",
     "static/media/rocket_league.png": "/arena-games/static/media/rocket_league.0a846edd225a3561be75.png",
     "static/media/lol.png": "/arena-games/static/media/lol.dbdc4471636dd225625b.png",
@@ -21,16 +21,17 @@
     "static/media/primeicons.woff": "/arena-games/static/media/primeicons.8931fda1930c3bd21e96.woff",
     "static/media/primeicons.ttf": "/arena-games/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/arena-games/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "static/media/lppc.jpg": "/arena-games/static/media/lppc.612c9f76654f436e3909.jpg",
     "static/media/logo_pf.png": "/arena-games/static/media/logo_pf.828fbfc6187e18d232d6.png",
     "static/media/logo_dark.png": "/arena-games/static/media/logo_dark.c73c38952f66044cd250.png",
     "static/media/cc_icon.jpeg": "/arena-games/static/media/cc_icon.a369c3b3f07a4992c8df.jpeg",
     "static/media/terabyte_icon.png": "/arena-games/static/media/terabyte_icon.f7432bef53b0b4dbb9b4.png",
     "index.html": "/arena-games/index.html",
-    "main.37d31b4a.css.map": "/arena-games/static/css/main.37d31b4a.css.map",
-    "main.f43971c8.js.map": "/arena-games/static/js/main.f43971c8.js.map"
+    "main.ec9360d7.css.map": "/arena-games/static/css/main.ec9360d7.css.map",
+    "main.47ddc3a8.js.map": "/arena-games/static/js/main.47ddc3a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.37d31b4a.css",
-    "static/js/main.f43971c8.js"
+    "static/css/main.ec9360d7.css",
+    "static/js/main.47ddc3a8.js"
   ]
 }
