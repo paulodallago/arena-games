@@ -2,6 +2,7 @@ import retro from "../../assets/img/entertainment/retro.jpg";
 import pokemon from "../../assets/img/entertainment/pokemon.jpg";
 import rpg from "../../assets/img/entertainment/rpg.jpg";
 import off from "../../assets/img/entertainment/off.jpg";
+import lppc from "../../assets/img/entertainment/lppc.jpg";
 
 const entertainmentContent = [
   {
@@ -61,6 +62,16 @@ const entertainmentContent = [
     location: "IFSul - Passo Fundo",
     description:
       "O Espaço Off traz uma sala dedicada aos jogos de tabuleiro modernos e clássicos. Um ambiente descontraído para quem quer se divertir fora das telas, com jogos para todos os perfis.",
+  },
+  {
+    title:
+      "1º Encontro da Liga Passofundense de Programação Competitiva (LPPC)",
+    image: lppc,
+    date: "09/05/2026",
+    time: "08:30 - 12:00",
+    location: "IFSul - Passo Fundo",
+    description:
+      "Primeiro encontro da LPPC, uma iniciativa aberta de treinamento em programação competitiva em Passo Fundo, com foco na OBI e na Maratona SBC de Programação.\nA proposta deste encontro inicial é apresentar a Liga e o universo das competições de programação, conhecer os estudantes interessados e realizar um breve simulado. \nO encontro é aberto a estudantes e entusiastas de ciência da computação do ensino médio, técnico e superior, independentemente da instituição de ensino, e não exige experiência prévia.",
   },
 ];
 

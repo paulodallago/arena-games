@@ -1,10 +1,15 @@
 .dialog {
   font-size: 1.1rem;
   width: 50vw;
+  text-align: justify;
 }
 
 .dialog h3 {
   font-size: 1.4rem;
+}
+
+.description {
+  white-space: pre-line;
 }
 
 @media (max-width: 768px) {
