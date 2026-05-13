@@ -1,9 +1,9 @@
 // @ts-nocheck
 import React, { useEffect, useRef } from "react";
 import styles from "./Schedule.module.css";
-import Hero from "../../components/Hero/Hero";
-import ModalitiesCarousel from "../../components/ModalitiesCarousel/ModalitiesCarousel";
-import EntertainmentCarousel from "../../components/EntertainmentCarousel/EntertainmentCarousel";
+import Hero from "../../components/schedule/Hero/Hero";
+import ModalitiesCarousel from "../../components/schedule/ModalitiesCarousel/ModalitiesCarousel";
+import EntertainmentCarousel from "../../components/schedule/EntertainmentCarousel/EntertainmentCarousel";
 import { useLocation } from "react-router-dom";
 
 const Schedule = () => {

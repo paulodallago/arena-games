@@ -1,0 +1,25 @@
+.dialog {
+  width: fit-content;
+  max-width: 90vw;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.content {
+  padding: 0 !important;
+  background: transparent;
+}
+
+.image {
+  display: block;
+  max-width: 80vw;
+  max-height: 80vh;
+  object-fit: contain;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .dialog {
+    width: 80vw;
+  }
+}

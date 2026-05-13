@@ -1,0 +1,34 @@
+.carouselItem {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: var(--shadow-1);
+  margin: 0 auto;
+}
+
+.carouselImg {
+  width: 100%;
+  object-fit: cover;
+}
+
+.upperSection {
+  text-align: right;
+  margin: 1rem 0;
+  width: 90vw;
+}
+
+.sectionTitle {
+  color: white;
+  text-align: center;
+  font-size: 2.2rem;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .carouselImg {
+    width: 100%;
+  }
+}

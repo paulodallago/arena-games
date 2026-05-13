@@ -5,10 +5,11 @@ import "primereact/resources/primereact.min.css";
 import "primeicons/primeicons.css";
 import React from "react";
 import Home from "./views/Home/Home";
-import Header from "./components/Header/Header";
+import Header from "./components/common/Header/Header";
 import { HashRouter, Route, Routes } from "react-router-dom";
 import Schedule from "./views/Schedule/Schedule";
-import Footer from "./components/Footer/Footer";
+import Footer from "./components/common/Footer/Footer";
+import PastEditions from "./views/PastEditions/PastEditions";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/programacao" element={<Schedule />} />
+            <Route path="/edicoes" element={<PastEditions />} />
           </Routes>
         </div>
         <Footer />

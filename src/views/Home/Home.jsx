@@ -1,11 +1,11 @@
 import React from "react";
-import YouTubeCard from "../../components/YouTubeCard/YouTubeCard";
-import MainCarousel from "../../components/MainCarousel/MainCarousel";
-import Contact from "../../components/Contact/Contact";
-import Registration from "../../components/Registration/Registration";
-import Modalities from "../../components/Modalities/Modalities";
-import Timer from "../../components/Timer/Timer";
-// import Editions from "../../components/Editions/Editions";
+import YouTubeCard from "../../components/home/YouTubeCard/YouTubeCard";
+import MainCarousel from "../../components/home/MainCarousel/MainCarousel";
+import Contact from "../../components/common/Contact/Contact";
+import Registration from "../../components/home/Registration/Registration";
+import Modalities from "../../components/home/Modalities/Modalities";
+import Timer from "../../components/home/Timer/Timer";
+import Editions from "../../components/home/EditionsGallery/EditionsGallery";
 
 const Home = () => {
   return (
@@ -13,9 +13,9 @@ const Home = () => {
       <MainCarousel />
       <Timer />
       <YouTubeCard />
-      {/* <Editions /> */}
       <Modalities />
       <Registration />
+      <Editions />
       <Contact />
     </>
   );

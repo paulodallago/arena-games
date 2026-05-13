@@ -24,6 +24,17 @@ body {
   border: none;
 }
 
+.p-carousel-indicators {
+  padding: 0;
+  padding-top: 5px;
+}
+
+.p-carousel-indicator button {
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+}
+
 .transparent-button {
   border: 2px solid rgba(226, 226, 226, 0.762) !important;
 }
