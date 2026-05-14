@@ -57,7 +57,7 @@
 
 .carouselContent h3 {
   margin: 0;
-  font-size: 1.3rem;
+  font-size: var(--font-2);
 }
 
 .carouselContent p {
@@ -67,12 +67,12 @@
 .info {
   color: var(--gray-1);
   padding: 1rem 0;
-  font-size: 0.9rem;
+  font-size: var(--font-1);
 }
 
 .info i {
   margin-right: 0.5rem;
-  font-size: 0.9rem;
+  font-size: var(--font-1);
 }
 
 @media (max-width: 768px) {
@@ -85,10 +85,10 @@
   }
 
   .carouselContent h3 {
-    font-size: 1.1rem;
+    font-size: var(--font-1);
   }
 
   .info {
-    font-size: 0.8rem;
+    font-size: var(--font-1);
   }
 }

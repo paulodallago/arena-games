@@ -9,6 +9,12 @@
   --shadow-1: 0px 0px 11px 2px #0d0d0d97;
   --shadow-2: 0px 0px 5px 2px #0d0d0d68;
   --header-height: 10vh;
+
+  --font-1: 1rem;
+  --font-2: 1.3rem;
+  --font-3: 1.5rem;
+  --font-4: 2rem;
+  --font-5: 2.5rem;
 }
 
 body {

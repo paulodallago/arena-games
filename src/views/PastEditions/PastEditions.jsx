@@ -1,5 +1,5 @@
 import React from "react";
-import Edition from "../../components/common/edition/Edition";
+import Edition from "../../components/pasteditions/Edition/Edition";
 import editionsContent from "../../data/editionsContent";
 
 const PastEditions = () => {

@@ -33,14 +33,14 @@
 }
 
 .sectionTitle {
-  font-size: 2.5rem;
+  font-size: var(--font-5);
   font-weight: bold;
 }
 
 .arenaContent p {
   color: #e2e8f0;
   max-width: 600px;
-  font-size: 1.3rem;
+  font-size: var(--font-2);
 }
 
 .btnRegister {
@@ -51,6 +51,6 @@
 
 @media (max-width: 768px) {
   .sectionTitle {
-    font-size: 1.6rem;
+    font-size: var(--font-3);
   }
 }

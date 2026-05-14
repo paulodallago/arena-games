@@ -1,11 +1,11 @@
 .dialog {
-  font-size: 1.1rem;
+  font-size: var(--font-1);
   width: 50vw;
   text-align: justify;
 }
 
 .dialog h3 {
-  font-size: 1.4rem;
+  font-size: var(--font-3);
 }
 
 .description {

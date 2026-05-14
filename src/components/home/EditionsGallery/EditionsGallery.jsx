@@ -42,7 +42,7 @@ const EditionsGallery = () => {
   };
 
   return (
-    <>
+    <div className={styles.container}>
       <ImageDialog
         image={selectedImage}
         visible={visible}
@@ -69,7 +69,7 @@ const EditionsGallery = () => {
           />
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
