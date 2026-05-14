@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arena-games/static/css/main.ec9360d7.css",
-    "main.js": "/arena-games/static/js/main.47ddc3a8.js",
+    "main.css": "/arena-games/static/css/main.b53d956b.css",
+    "main.js": "/arena-games/static/js/main.cabae845.js",
     "static/media/chess.png": "/arena-games/static/media/chess.79e7453c4c562a8f82ec.png",
     "static/media/rocket_league.png": "/arena-games/static/media/rocket_league.0a846edd225a3561be75.png",
     "static/media/lol.png": "/arena-games/static/media/lol.dbdc4471636dd225625b.png",
@@ -12,6 +12,10 @@
     "static/media/valorant.png": "/arena-games/static/media/valorant.4d65bcf062bdd57309db.png",
     "static/media/background_registrations.jpg": "/arena-games/static/media/background_registrations.6afda12e4b068f380a37.jpg",
     "static/media/primeicons.svg": "/arena-games/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/1.jpeg": "/arena-games/static/media/1.fae920fb6d9669407b56.jpeg",
+    "static/media/4.jpeg": "/arena-games/static/media/4.ac684276f5cfa4fb7ec4.jpeg",
+    "static/media/3.jpeg": "/arena-games/static/media/3.20e9f7ca0bd4b5da2927.jpeg",
+    "static/media/2.jpeg": "/arena-games/static/media/2.d67bdac1c9ba3745cddd.jpeg",
     "static/media/retro.jpg": "/arena-games/static/media/retro.9eaee7695f28205ffa55.jpg",
     "static/media/pokemon.jpg": "/arena-games/static/media/pokemon.d7766b02b3f13b57117e.jpg",
     "static/media/rpg.jpg": "/arena-games/static/media/rpg.43d2ba542f25379a5f59.jpg",
@@ -27,11 +31,11 @@
     "static/media/cc_icon.jpeg": "/arena-games/static/media/cc_icon.a369c3b3f07a4992c8df.jpeg",
     "static/media/terabyte_icon.png": "/arena-games/static/media/terabyte_icon.f7432bef53b0b4dbb9b4.png",
     "index.html": "/arena-games/index.html",
-    "main.ec9360d7.css.map": "/arena-games/static/css/main.ec9360d7.css.map",
-    "main.47ddc3a8.js.map": "/arena-games/static/js/main.47ddc3a8.js.map"
+    "main.b53d956b.css.map": "/arena-games/static/css/main.b53d956b.css.map",
+    "main.cabae845.js.map": "/arena-games/static/js/main.cabae845.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec9360d7.css",
-    "static/js/main.47ddc3a8.js"
+    "static/css/main.b53d956b.css",
+    "static/js/main.cabae845.js"
   ]
 }
