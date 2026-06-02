@@ -43,7 +43,7 @@
   padding: 7px 15px;
   color: white;
   border-radius: 15px;
-  box-shadow: var(--shadow-2);
+  box-shadow: var(--shadow-1);
 }
 
 .hamburger {
